@@ -1,11 +1,12 @@
 <h2 data-importer="text" align="left">Bem vindo ao meu perfil!</h2>
 
 ###
-<p>Meu nome é Victor Zagato, sou técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPR</p>
+<p>Meu nome é Victor Zagato, sou Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPR <br>
+  
+  - Adoro Lógica de Programação, LeetCode e C
+  - Atualmente estudando programação competitiva em C++
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://upload.wikimedia.org/wikipedia/en/4/48/Lil_Peep_and_iLoveMakonnen-_I%27ve_Been_Waiting.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original"  />
+</p>
 
 ###
 
@@ -32,8 +33,10 @@
 
 ###
 
-<br clear="both">
+<img data-importer="image" align="center" height="150" src="https://i.pinimg.com/originals/59/9d/0d/599d0d9ed46bee9838cf52f59c0ee0fb.gif"  />
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/zagatuh/zagatuh/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
 
 ###
