@@ -43,7 +43,7 @@
 
 <br>
 
-<img align="center" width="400" src="https://i.giphy.com/FuTJJ4zR0rls0hcQTL.gif" alt="gif" />
+<img align="center" height="600" src="https://i.giphy.com/FuTJJ4zR0rls0hcQTL.gif" alt="gif" />
 
 ###
 
