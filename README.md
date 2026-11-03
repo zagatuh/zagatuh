@@ -1,10 +1,16 @@
 <h2 data-importer="text" align="left">Bem vindo ao meu perfil!</h2>
 
 ###
-<p>Meu nome é Victor Zagato, sou Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPR <br>
-  
-  - Adoro Lógica de Programação, LeetCode e C
-  - Atualmente estudando programação competitiva em C++
+<p>Meu nome é <strong>Victor Zagato</strong>, moro em Londrina-PR
+  <br>
+  <br>
+  Sou Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFPR <br>
+
+  <strong>O que eu estou estudando?<strong/>
+  - Lógica de Programação, LeetCode e C
+  - Explorando programação competitiva em C++
+  - Estruturas de Dados e Algoritmos
+  - Serviços Web
 
 </p>
 
@@ -30,12 +36,12 @@
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/victor-zagato-55135a25a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
-###
-
-<img data-importer="image" align="center" height="150" src="https://i.pinimg.com/originals/59/9d/0d/599d0d9ed46bee9838cf52f59c0ee0fb.gif"  />
+<img align="center" height="150" src="https://i.giphy.com/FuTJJ4zR0rls0hcQTL.gif" alt="gif" />
 
 ###
 
