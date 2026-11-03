@@ -41,7 +41,9 @@
   </a>
 </div>
 
-<img align="center" height="150" src="https://i.giphy.com/FuTJJ4zR0rls0hcQTL.gif" alt="gif" />
+<br>
+
+<img align="center" height="300" src="https://i.giphy.com/FuTJJ4zR0rls0hcQTL.gif" alt="gif" />
 
 ###
 
