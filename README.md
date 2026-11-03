@@ -43,7 +43,7 @@
 
 <br>
 
-<img align="center" height="600" src="https://i.pinimg.com/originals/59/9d/0d/599d0d9ed46bee9838cf52f59c0ee0fb.gif" alt="gif" />
+<img width="682" height="384" alt="599d0d9ed46bee9838cf52f59c0ee0fb" src="https://github.com/user-attachments/assets/b0f628f0-a697-45aa-b9cf-f36456dced49" />
 
 ###
 
